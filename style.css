@@ -1,0 +1,10 @@
+#canvas{
+    background-color: #000;
+    border: 5px white;
+    border-style: ridge;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+.song-name{
+    margin-top: 15px;
+}
